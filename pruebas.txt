@@ -1,15 +1,1 @@
-uno
-dos
-tres
-cuatro
-cinco
-seis actual
-ocho rinka
-siete actual
-nueve rama marco
-diez rama master
-once rama marco
-doce rama marco
-los coloqué en orden
-doce rama marco
-trece rama master
+uno rama marco
